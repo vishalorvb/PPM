@@ -1,0 +1,12 @@
+C:\Users\VISHAL\source\repos\EntityUI\bin\Debug\EntityUI.exe.config
+C:\Users\VISHAL\source\repos\EntityUI\bin\Debug\EntityUI.exe
+C:\Users\VISHAL\source\repos\EntityUI\bin\Debug\EntityUI.pdb
+C:\Users\VISHAL\source\repos\EntityUI\bin\Debug\EntityMODAL.exe
+C:\Users\VISHAL\source\repos\EntityUI\bin\Debug\EntityMODAL.pdb
+C:\Users\VISHAL\source\repos\EntityUI\bin\Debug\EntityMODAL.exe.config
+C:\Users\VISHAL\source\repos\EntityUI\obj\Debug\EntityUI.csproj.AssemblyReference.cache
+C:\Users\VISHAL\source\repos\EntityUI\obj\Debug\EntityUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\VISHAL\source\repos\EntityUI\obj\Debug\EntityUI.csproj.CoreCompileInputs.cache
+C:\Users\VISHAL\source\repos\EntityUI\obj\Debug\EntityUI.csproj.CopyComplete
+C:\Users\VISHAL\source\repos\EntityUI\obj\Debug\EntityUI.exe
+C:\Users\VISHAL\source\repos\EntityUI\obj\Debug\EntityUI.pdb

@@ -1,0 +1,15 @@
+C:\Users\VISHAL\source\repos\PPMDomain\bin\Debug\PPMDomain.exe.config
+C:\Users\VISHAL\source\repos\PPMDomain\bin\Debug\PPMDomain.exe
+C:\Users\VISHAL\source\repos\PPMDomain\bin\Debug\PPMDomain.pdb
+C:\Users\VISHAL\source\repos\PPMDomain\bin\Debug\PPMModel.exe
+C:\Users\VISHAL\source\repos\PPMDomain\bin\Debug\PPMModel.pdb
+C:\Users\VISHAL\source\repos\PPMDomain\bin\Debug\PPMModel.exe.config
+C:\Users\VISHAL\source\repos\PPMDomain\obj\Debug\PPMDomain.csproj.AssemblyReference.cache
+C:\Users\VISHAL\source\repos\PPMDomain\obj\Debug\PPMDomain.csproj.SuggestedBindingRedirects.cache
+C:\Users\VISHAL\source\repos\PPMDomain\obj\Debug\PPMDomain.csproj.CoreCompileInputs.cache
+C:\Users\VISHAL\source\repos\PPMDomain\obj\Debug\PPMDomain.csproj.CopyComplete
+C:\Users\VISHAL\source\repos\PPMDomain\obj\Debug\PPMDomain.exe
+C:\Users\VISHAL\source\repos\PPMDomain\obj\Debug\PPMDomain.pdb
+C:\Users\VISHAL\source\repos\PPMDomain\bin\Debug\PPMUI.exe
+C:\Users\VISHAL\source\repos\PPMDomain\bin\Debug\PPMUI.pdb
+C:\Users\VISHAL\source\repos\PPMDomain\bin\Debug\PPMUI.exe.config

@@ -1,0 +1,8 @@
+C:\Users\VISHAL\source\repos\EntityMODAL\bin\Debug\EntityMODAL.exe.config
+C:\Users\VISHAL\source\repos\EntityMODAL\bin\Debug\EntityMODAL.exe
+C:\Users\VISHAL\source\repos\EntityMODAL\bin\Debug\EntityMODAL.pdb
+C:\Users\VISHAL\source\repos\EntityMODAL\obj\Debug\EntityMODAL.csproj.AssemblyReference.cache
+C:\Users\VISHAL\source\repos\EntityMODAL\obj\Debug\EntityMODAL.csproj.SuggestedBindingRedirects.cache
+C:\Users\VISHAL\source\repos\EntityMODAL\obj\Debug\EntityMODAL.csproj.CoreCompileInputs.cache
+C:\Users\VISHAL\source\repos\EntityMODAL\obj\Debug\EntityMODAL.exe
+C:\Users\VISHAL\source\repos\EntityMODAL\obj\Debug\EntityMODAL.pdb

@@ -1,0 +1,12 @@
+C:\Users\VISHAL\source\repos\PPMUI\bin\Debug\PPMUI.exe.config
+C:\Users\VISHAL\source\repos\PPMUI\bin\Debug\PPMUI.exe
+C:\Users\VISHAL\source\repos\PPMUI\bin\Debug\PPMUI.pdb
+C:\Users\VISHAL\source\repos\PPMUI\bin\Debug\PPMModel.exe
+C:\Users\VISHAL\source\repos\PPMUI\bin\Debug\PPMModel.pdb
+C:\Users\VISHAL\source\repos\PPMUI\bin\Debug\PPMModel.exe.config
+C:\Users\VISHAL\source\repos\PPMUI\obj\Debug\PPMUI.csproj.AssemblyReference.cache
+C:\Users\VISHAL\source\repos\PPMUI\obj\Debug\PPMUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\VISHAL\source\repos\PPMUI\obj\Debug\PPMUI.csproj.CoreCompileInputs.cache
+C:\Users\VISHAL\source\repos\PPMUI\obj\Debug\PPMUI.csproj.CopyComplete
+C:\Users\VISHAL\source\repos\PPMUI\obj\Debug\PPMUI.exe
+C:\Users\VISHAL\source\repos\PPMUI\obj\Debug\PPMUI.pdb

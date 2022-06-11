@@ -1,0 +1,8 @@
+C:\Users\VISHAL\source\repos\PPMModel\bin\Debug\PPMModel.exe.config
+C:\Users\VISHAL\source\repos\PPMModel\bin\Debug\PPMModel.exe
+C:\Users\VISHAL\source\repos\PPMModel\bin\Debug\PPMModel.pdb
+C:\Users\VISHAL\source\repos\PPMModel\obj\Debug\PPMModel.csproj.AssemblyReference.cache
+C:\Users\VISHAL\source\repos\PPMModel\obj\Debug\PPMModel.csproj.SuggestedBindingRedirects.cache
+C:\Users\VISHAL\source\repos\PPMModel\obj\Debug\PPMModel.csproj.CoreCompileInputs.cache
+C:\Users\VISHAL\source\repos\PPMModel\obj\Debug\PPMModel.exe
+C:\Users\VISHAL\source\repos\PPMModel\obj\Debug\PPMModel.pdb
